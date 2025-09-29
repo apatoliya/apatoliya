@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm apatoliya</h1>
+<h1 align="center">Hi 👋, I'm Amit Patolia</h1>
 <h3 align="center">A passionate AI and Cloud/DevOps enginer</h3>
 
 - 🔭 I’m currently working on **AI Agents**
